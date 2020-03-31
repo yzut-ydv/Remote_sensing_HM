@@ -4,7 +4,7 @@ Scripts for courses in the faculty of Geoinformatics. Munich University of Appli
 ## Remote Sensing - Summer Semester 2020
 Authors: Yrneh Ulloa, Gabriel Cevallos
 
-#### [Week 1](https://hub.gke.mybinder.org/user/yzut-ydv-geoinformatics_hm-clhwebp2/notebooks/practice1_fe1.ipynb)
+#### [Week 1](https://hub.gke.mybinder.org/user/yzut-ydv-geoinformatics_hm-0bkqdfcg/notebooks/practice1_fe1.ipynb)
 Software for working with RS and GIS data.  
 
 #### Week 2
