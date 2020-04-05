@@ -7,5 +7,5 @@ Authors: Yrneh Ulloa, Gabriel Cevallos
 #### [Week 1](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice1_fe1.ipynb)
 Software for working with RS and GIS data.  
 
-#### Week 2
+#### [Week 2](https://hub.gke.mybinder.org/user/yzut-ydv-geoinformatics_hm-v402xkqu/notebooks/practice2_fe1.ipynb)
 Online archives to retrieve RS data.
