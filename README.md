@@ -19,3 +19,6 @@ Creation of training polygons for classification of optical data.
 #### [Week 4](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice4_fe1.ipynb)
 Unsupervised classification using k-means
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice4_fe1-Solution.ipynb)
+
+#### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice5_fe1.ipynb)
+Supervised classification using k-Nearest Neighbors and Random Forest
