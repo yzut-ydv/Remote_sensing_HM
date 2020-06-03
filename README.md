@@ -21,4 +21,8 @@ Unsupervised classification using k-means
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice4_fe1-Solution.ipynb)
 
 #### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice5_fe1.ipynb)
-Supervised classification using k-Nearest Neighbors and Random Forest
+Supervised classification using Minimum Distance and Random Forest
+[See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice5_fe1-Solution.ipynb)
+
+#### [Week 6](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice6_fe1.ipynb)
+Accuracy Assessment of classified Sentinel-2a Rasterstack
