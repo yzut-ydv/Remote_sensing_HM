@@ -17,13 +17,13 @@ Creation of training polygons for classification of optical data.
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice3_fe1-Solution.ipynb)
 
 #### [Week 4](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice4_fe1.ipynb)
-Unsupervised classification using k-means
+Unsupervised classification using k-means.
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice4_fe1-Solution.ipynb)
 
 #### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice5_fe1.ipynb)
-Supervised classification using Minimum Distance and Random Forest
+Supervised classification using Minimum Distance and Random Forest.
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice5_fe1-Solution.ipynb)
 
 #### [Week 6](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice6_fe1.ipynb)
-Accuracy Assessment of classified Sentinel-2a Rasterstack
+Accuracy Assessment of classified Sentinel-2a Rasterstack.
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice6_fe1-Solution.ipynb)
