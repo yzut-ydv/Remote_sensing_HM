@@ -29,4 +29,4 @@ Accuracy Assessment of classified Sentinel-2a Rasterstack.
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice6_fe1-Solution.ipynb)
 
 #### [Week 7](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=jupyter_notebooks%2Fpractice7_fe1.ipynb)
-Accuracy Assessment of classified Sentinel-2a Rasterstack.
+Create a map in QIS using a classified Sentinel-2a Rasterstack. Moreover, use diverse functions in Python for preprocessing raster data.
