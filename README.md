@@ -28,5 +28,5 @@ Supervised classification using Minimum Distance and Random Forest.
 Accuracy Assessment of classified Sentinel-2a Rasterstack.
 [See solution](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice6_fe1-Solution.ipynb)
 
-#### [Week 7](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=practice7_fe1.ipynb)
+#### [Week 7](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master/jupyter_notebooks?filepath=practice7_fe1.ipynb)
 Accuracy Assessment of classified Sentinel-2a Rasterstack.
