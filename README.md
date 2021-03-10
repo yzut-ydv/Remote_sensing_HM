@@ -30,3 +30,5 @@ Radiometric correction of Sentinel images.
 
 #### [Week 9](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/master?filepath=jupyter_notebooks%2Fpractice9_fe1.ipynb)
 Geometric correction of EnMap images. 
+
+#### BLA BLA BLA :)
