@@ -10,7 +10,7 @@ Software for working with RS and GIS data.
 #### [Week 2](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice2_fe1.ipynb)
 Online archives to retrieve RS data.
 
-#### [Week 3]
+#### [Week 3](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice3_fe1.ipynb)
 Creation of training polygons for classification of optical data.
 
 #### [Week 4]
