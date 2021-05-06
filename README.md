@@ -16,7 +16,7 @@ Creation of training polygons for classification of optical data.
 #### [Week 4](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice4_fe1.ipynb)
 Unsupervised classification using k-means.
 
-#### [Week 5] (https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice5_fe1.ipynb)
+#### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice5_fe1.ipynb)
 Supervised classification using Minimum Distance and Random Forest.
 
 #### [Week 6]
