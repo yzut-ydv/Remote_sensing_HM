@@ -13,29 +13,23 @@ Online archives to retrieve RS data.
 #### [Week 3](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice3_fe1.ipynb)
 Creation of training polygons for classification of optical data.
 
-#### [Week 4]
-Unsupervised classification using k-means. Part-I
+#### [Week 4](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice4_fe1.ipynb)
+Unsupervised classification using k-means.
 
-#### [Week 5]
-Unsupervised classification using k-means. Part-II
+#### [Week 5] (https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice5_fe1.ipynb)
+Supervised classification using Minimum Distance and Random Forest.
 
 #### [Week 6]
-Supervised classification using Minimum Distance and Random Forest. Part-I
-
-#### [Week 7]
-Supervised classification using Minimum Distance and Random Forest. Part-II
-
-#### [Week 8]
 Accuracy Assessment of classified Sentinel-2a Rasterstack. Part-I
 
-#### [Week 9]
+#### [Week 7]
 Accuracy Assessment of classified Sentinel-2a Rasterstack. Part-II
 
-#### [Week 10]
+#### [Week 8]
 Create a map in QGIS using a classified Sentinel-2a Rasterstack. Moreover, use diverse functions in Python for preprocessing raster data.
 
-#### [Week 11]
+#### [Week 9]
 Radiometric correction of Sentinel images. 
 
-#### [Week 12]
+#### [Week 10]
 Geometric correction of EnMap images. 
