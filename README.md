@@ -19,13 +19,13 @@ Unsupervised classification using k-means.
 #### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice5_fe1.ipynb)
 Supervised classification using Minimum Distance and Random Forest.
 
-#### [Week 6]
+#### [Week 6](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice6_fe1.ipynb)
 Accuracy Assessment of classified Sentinel-2a Rasterstack. Part-I
 
 #### [Week 7]
 Accuracy Assessment of classified Sentinel-2a Rasterstack. Part-II
 
-#### [Week 8]
+#### [Week 8](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice7_fe1.ipynb)
 Create a map in QGIS using a classified Sentinel-2a Rasterstack. Moreover, use diverse functions in Python for preprocessing raster data.
 
 #### [Week 9]
