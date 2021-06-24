@@ -31,5 +31,5 @@ Create a map in QGIS using a classified Sentinel-2a Rasterstack. Moreover, use d
 #### [Week 9](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice8_fe1.ipynb)
 Radiometric correction of Sentinel images. 
 
-#### [Week 10]
+#### [Week 10](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice9_fe1.ipynb)
 Geometric correction of EnMap images. 
