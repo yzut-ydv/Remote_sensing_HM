@@ -1,5 +1,5 @@
 # Remote Sensing Bachelor course
-Scripts for the Remote Sensing course in the faculty of Geoinformatics. Munich University of Applied Sciences
+Scripts for the Remote Sensing course in the faculty of Geoinformatics at the Munich University of Applied Sciences
 
 ## Remote Sensing - Summer Semester 2021
 Authors: Yrneh Ulloa, Gabriel Cevallos
