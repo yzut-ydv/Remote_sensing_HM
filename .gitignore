@@ -1,7 +1,12 @@
+/_ERASE
 /admin
 /envs
 /article_studentproject
 /lectures_andreas
-/practices_yzut
+/data
+/docs
+/qgis_projects
+/setup
 HOWTO_bbbclasses.txt
-/jupyter_notebooks_version2020
+/jupyter_notebooks_classNotes
+/jupyter_notebooks_solutions
