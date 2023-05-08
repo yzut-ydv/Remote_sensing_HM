@@ -13,7 +13,7 @@ Online archives to retrieve RS data.
 #### [Week 3](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice3_fe1.ipynb)
 Creation of training polygons for classification of optical data.
 
-#### [Week 4](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice4_fe1.ipynb)
+#### [Week 4](https://github.com/yzut-ydv/Remote_sensing_HM/blob/master/jupyter_notebooks/practice4_fe1.ipynb)
 Unsupervised classification using k-means.
 
 #### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice5_fe1.ipynb)
