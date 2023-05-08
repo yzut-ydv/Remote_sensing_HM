@@ -16,20 +16,17 @@ Creation of training polygons for classification of optical data.
 #### [Week 4](https://github.com/yzut-ydv/Remote_sensing_HM/blob/master/jupyter_notebooks/practice4_fe1.ipynb)
 Unsupervised classification using k-means.
 
-#### [Week 5](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice5_fe1.ipynb)
+#### [Week 5](https://github.com/yzut-ydv/Remote_sensing_HM/blob/master/jupyter_notebooks/practice5_fe1.ipynb)
 Supervised classification using Minimum Distance and Random Forest.
 
-#### [Week 6](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice6_fe1.ipynb)
-Accuracy Assessment of classified Sentinel-2a Rasterstack. Part-I
+#### [Week 6](https://github.com/yzut-ydv/Remote_sensing_HM/blob/master/jupyter_notebooks/practice6_fe1.ipynb)
+Accuracy Assessment of classified Sentinel-2a Rasterstack.
 
-#### [Week 7]
-Accuracy Assessment of classified Sentinel-2a Rasterstack. Part-II
-
-#### [Week 8](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice7_fe1.ipynb)
+#### [Week 7](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice7_fe1.ipynb)
 Create a map in QGIS using a classified Sentinel-2a Rasterstack. Moreover, use diverse functions in Python for preprocessing raster data.
 
-#### [Week 9](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice8_fe1.ipynb)
+#### [Week 8](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice8_fe1.ipynb)
 Radiometric correction of Sentinel images. 
 
-#### [Week 10](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice9_fe1.ipynb)
+#### [Week 9](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice9_fe1.ipynb)
 Geometric correction of EnMap images. 
