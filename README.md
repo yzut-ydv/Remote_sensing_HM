@@ -1,8 +1,8 @@
 # Remote Sensing Bachelor course
 Scripts for the Remote Sensing course in the faculty of Geoinformatics at the Munich University of Applied Sciences
 
-## Remote Sensing - Summer Semester 2021
-Authors: Yrneh Ulloa, Gabriel Cevallos
+## Remote Sensing - Summer Semester 2023
+Authors: Yrneh Ulloa, Gabriel Cevallos, Marina Trinz
 
 #### [Week 1](https://mybinder.org/v2/gh/yzut-ydv/geoinformatics_hm/HEAD?filepath=jupyter_notebooks%2Fpractice1_fe1.ipynb)
 Software for working with RS and GIS data. 
